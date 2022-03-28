@@ -26,7 +26,6 @@ const doctorSchema = new mongoose.Schema(
         required: true,
       },
     ],
-  
   },
   {
     versionKey: false,
